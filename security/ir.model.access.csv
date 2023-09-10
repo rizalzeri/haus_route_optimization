@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_haus_schedule,access.haus.schedule,model_haus_schedule,,1,1,1,1
+access_haus_task,access.haus.task,model_haus_task,,1,1,1,1
+access_haus_dashboard,access.haus.dashboard,model_haus_dashboard,,1,1,1,1
